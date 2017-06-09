@@ -14,7 +14,8 @@ Syntax highlighted code block
 # NAPO
 ## NAPO
 ### NAPO
-<img-url = ""> 
+![Naponaponapo](http://www.funnyjunk.com/imgrd/rd/comments/d0/82/d082eef448765b5f90614867d6b6b3b 1.jpg/)
+[ick](https://www.youtube.com/watch?v=51ErXGMVdtk)
 
 **Bold** and _Italic_ and `Code` text
 
