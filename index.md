@@ -14,12 +14,7 @@ Syntax highlighted code block
 # NAPO
 ## NAPO
 ### NAPO
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+<img-url = ""> 
 
 **Bold** and _Italic_ and `Code` text
 
